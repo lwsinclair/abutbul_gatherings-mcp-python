@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-abutbul-gatherings-mcp-python-badge.png)](https://mseep.ai/app/mcp-mirror-abutbul-gatherings-mcp-python)
+
 # Gatherings MCP Server
 
 A Machine Conversation Protocol (MCP) server interface for the Gatherings expense-sharing application.
